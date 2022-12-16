@@ -1,0 +1,8 @@
+esp8266/tools/*/
+esp8266/tools/*.log
+esp8266/tools/*.lck
+
+server/node_modules
+server/dist
+
+*config*.*
